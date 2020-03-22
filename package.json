@@ -1,0 +1,26 @@
+{
+  "name": "subtle-dark",
+  "displayName": "Subtle Dark",
+  "description": "Dark colour theme",
+  "version": "0.0.1",
+  "publisher": "Ayushlal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayush-lal/SubtleDark-VScode"
+  },
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Subtle Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Big Black Dark-color-theme.json"
+      }
+    ]
+  }
+}
